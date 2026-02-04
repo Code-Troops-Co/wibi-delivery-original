@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132797241197",
+    "project_id": "wibilib",
+    "storage_bucket": "wibilib.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132797241197:android:34c105a289a961f010ec64",
+        "android_client_info": {
+          "package_name": "com.wibilb.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132797241197-a9cvb7ftteu2k072li86h3lkp69rbb4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7UTylT0AR6-sM0Gr-GE5it5VcjlHj_Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132797241197-a9cvb7ftteu2k072li86h3lkp69rbb4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
