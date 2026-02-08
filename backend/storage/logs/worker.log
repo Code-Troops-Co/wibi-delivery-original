@@ -1,0 +1,702 @@
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wibi_db.cache' d  
+  oesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: wib  
+  i_db, SQL: select * from `cache` where `key` in (laravel_cache_illuminate:q  
+  ueue:restart))                                                               
+                                                                               
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wibi_db.cache' d  
+  oesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: wib  
+  i_db, SQL: select * from `cache` where `key` in (laravel_cache_illuminate:q  
+  ueue:restart))                                                               
+                                                                               
+
+In Connection.php line 420:
+In Connection.php line 420:
+                                                                               
+  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wibi_db.cache' d  
+  oesn't exist                                                                 
+                                                                               
+
+                                                                               
+  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wibi_db.cache' d  
+  oesn't exist                                                                 
+                                                                               
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wibi_db.cache' d  
+  oesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: wib  
+  i_db, SQL: select * from `cache` where `key` in (laravel_cache_illuminate:q  
+  ueue:restart))                                                               
+                                                                               
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wibi_db.cache' d  
+  oesn't exist (Connection: mysql, Host: 127.0.0.1, Port: 3306, Database: wib  
+  i_db, SQL: select * from `cache` where `key` in (laravel_cache_illuminate:q  
+  ueue:restart))                                                               
+                                                                               
+
+In Connection.php line 420:
+                                                                               
+  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wibi_db.cache' d  
+  oesn't exist                                                                 
+                                                                               
+
+In Connection.php line 420:
+                                                                               
+  SQLSTATE[42S02]: Base table or view not found: 1146 Table 'wibi_db.cache' d  
+  oesn't exist                                                                 
+                                                                               
+
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+In Connector.php line 67:
+
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select * from `cache` where `key` i  
+  n (laravel_cache_illuminate:queue:restart))                                  
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select * from `cache` where `key` i  
+  n (laravel_cache_illuminate:queue:restart))                                  
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
+In Connection.php line 838:
+                                                                               
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, Host: 127.0.0  
+  .1, Port: 3306, Database: wibi_db, SQL: select exists (select 1 from inform  
+  ation_schema.tables where table_schema = schema() and table_name = 'setting  
+  s' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`)        
+                                                                               
+
+In Connector.php line 67:
+                                             
+  SQLSTATE[HY000] [2002] Connection refused  
+                                             
+
